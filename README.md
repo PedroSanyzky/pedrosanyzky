@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://sanyzkypedro.netlify.app)
+- 👨‍💻 Explore my projects at [sanyzkypedro.netlify.app](https://sanyzkypedro.netlify.app)
 
 - 💬 Ask me about **C# .NET, React, Etc**
 
 - 📫 Reach me at **sanyzkypedro@gmail.com**
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://sanyzkypedro.netlify.app)
+- 📄 Learn more about my experiences at [sanyzkypedro.netlify.app](https://sanyzkypedro.netlify.app)
 
 
 ### Connect with me 🔗 :
@@ -29,10 +29,11 @@
 </p>
 <br>
 
+
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadpiracha&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=pedrosanyzky&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
@@ -40,5 +41,5 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pedrosanyzky&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
